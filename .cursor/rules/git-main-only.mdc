@@ -1,0 +1,14 @@
+---
+description: Always commit and push directly to main — never create separate branches
+alwaysApply: true
+---
+
+# Git: main branch only
+
+This project uses a single-branch workflow.
+
+- **Always work on `main`** — never create feature branches, fix branches, or any other branch names.
+- **Always push to `origin/main`** — remote: `https://github.com/novaxumair/cheats-intel.com.git`
+- Do not run `git checkout -b`, `git switch -c`, or `git push origin <other-branch>`.
+- After changes: `git add`, `git commit`, then `git push origin main` (or `git push` when on main with upstream set).
+- If accidentally on another branch, switch back to `main` and merge or discard — do not leave stray branches on GitHub.
