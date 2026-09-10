@@ -1,0 +1,1042 @@
+{
+  "fetchedAt": "2026-09-10T10:17:31.420Z",
+  "zadeyoProductCount": 169,
+  "ourCatalogCount": 207,
+  "cheatShot": [
+    {
+      "catalogSlug": "arc-raiders",
+      "zadeyoSlug": "arc-raiders",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/4d/20/skc265esoscw8o80k0ow.webp?p=ancient-arc-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "arena-breakout-infinite",
+      "zadeyoSlug": "abi",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/2p/td/n7vlbfuo0cw0s80s88wsg.webp?p=phoenix-abi-full-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "ark-survival-ascended",
+      "zadeyoSlug": "ark-ascended",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/9t/q5/vrf94zk04k4o0k4coo804.webp?p=phoenix-ark-ascended-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "arma-reforger",
+      "zadeyoSlug": "arma-reforger",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/6c/zr/g9qtitc0wo0000s0wscw0.webp?p=arcane-arma-reforger-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "caliber",
+      "zadeyoSlug": "caliber-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/9b/ao/ykvuimg4swooowo80sok4.webp?p=cals1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "dayz",
+      "zadeyoSlug": "dayz",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/8f/07/1us95yckwogwg4koowo40.webp?p=dayz_multi1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "dead-by-daylight",
+      "zadeyoSlug": "dbd",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/1w/x5/dcizus4gk40kccgg8wokc.webp?p=phoenix-dbd-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "delta-force",
+      "zadeyoSlug": "delta-force",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/ae/im/n8p5swg8s44okkc84ggg8.webp?p=phoenix-df-chams-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "dota-2",
+      "zadeyoSlug": "dota-2",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/bw/51/8bncftsgs4ko0400kwsc4.webp?p=melonity-dota2-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "dune-awakening",
+      "zadeyoSlug": "dune-awakening",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/bh/dh/gbjc17kgsoo844404swcs.webp?p=arcane-dune-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "escape-from-tarkov",
+      "zadeyoSlug": "escape-from-tarkov",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/4e/me/amj541a8scw4oowcko048.webp?p=ancient_eft_s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "etheria-restart",
+      "zadeyoSlug": "etheria-restart-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/b6/r2/1t4wgco4sso0s8w80ww4w.webp?p=unicore-etheria-restart-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "fortnite",
+      "zadeyoSlug": "fortnite",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/1o/wa/ghgvq8o0c0og088ck488g.webp?p=ancient-fortnite-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "foxhole",
+      "zadeyoSlug": "foxhole-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/c5/bx/5tqa0mosc4koccok04w0k.webp?p=melonity-foxhole-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "fragpunk",
+      "zadeyoSlug": "fragpunk-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/3l/d3/j2fdevmsswcgc0ocw8sc8.webp?p=dullwave-fragpunk-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "genshin-impact",
+      "zadeyoSlug": "genshin-impact-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/59/og/9toffuw4kkk4cwsokoos0.webp?p=gus1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "honkai-star-rail",
+      "zadeyoSlug": "honkai-star-rail-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/9s/6r/ugk786osowgg88occo0oo.webp?p=unicore-honkai-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "hwid-spoofer",
+      "zadeyoSlug": "hwid-spoofer",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/9j/74/yn9llmo0gsks88c0cksw8.webp?p=phoenix-spoofer-preview.webp&s=s3"
+    },
+    {
+      "catalogSlug": "insurge",
+      "zadeyoSlug": "insurgency-sandstorm",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/53/bk/or8twgw0o0s8g80s0c0gk.webp?p=insfecs1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "isle",
+      "zadeyoSlug": "the-isle-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/80/y1/cdndql8gg4oc8kc4c044o.webp?p=pussycat-isle-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "league-of-legends",
+      "zadeyoSlug": "league-of-legends",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/a6/ji/b86agn40ok8k84kk0co4o.webp?p=phoenix_lol1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "marathon",
+      "zadeyoSlug": "marathon",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/24/xc/rltqp9es4s00ggg4s0cs4.webp?p=pussycat-marauders-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "marauders",
+      "zadeyoSlug": "marauders",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/24/xc/rltqp9es4s00ggg4s0cs4.webp?p=pussycat-marauders-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "marvel-rivals",
+      "zadeyoSlug": "marvel-rivals",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/5u/58/j4s7yts84koc8swog4goc.webp?p=phoenix-marvel-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "minecraft",
+      "zadeyoSlug": "minecraft",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/3b/oc/493wvssg84gwk8c0w0sk.webp?p=melonity-minecraft-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "naraka-bladepoint",
+      "zadeyoSlug": "naraka-bladepoint-novaxware",
+      "url": "https://wh-satano.ru/storage/media/naraka.webp"
+    },
+    {
+      "catalogSlug": "overwatch-2",
+      "zadeyoSlug": "overwatch-2",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/2r/bn/m81ctwo4skw440s0w4sos.webp?p=byster-overwatch-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "paladins",
+      "zadeyoSlug": "paladins",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/6o/p9/z0axh20wc8wosgkkooksw.webp?p=paladins_multihack1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "path-of-exile-2",
+      "zadeyoSlug": "path-of-exile",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/co/6r/mxa5ha80o04c4w44k44gg.webp?p=phoenix-poe-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "payday-3",
+      "zadeyoSlug": "payday-3-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/a7/4o/gjmiju0ok08co8ggc0wog.webp?p=payday3s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "pubg",
+      "zadeyoSlug": "pubg",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/6l/mr/nqwlmv8ks0w0048scgw08.webp?p=arcane-pubg-full-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "rainbow-six-siege",
+      "zadeyoSlug": "rainbow-six-siege",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/6s/94/0aiq6xkwc4kssco884soo.webp?p=r6s_multihack_s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "red-dead-redemption",
+      "zadeyoSlug": "red-dead-redemption",
+      "url": "https://wh-satano.ru/storage/media/rdr.webp"
+    },
+    {
+      "catalogSlug": "rust",
+      "zadeyoSlug": "rust",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/9j/77/rr60g64gowc0sw448kcc4.webp?p=stealth-rust-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "scum",
+      "zadeyoSlug": "scum",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/83/5a/9a5p2ts80k448kswk4w4w.webp?p=scum-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "squad",
+      "zadeyoSlug": "squad",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/1t/oa/yddpk6pwkosg444kggs0s.webp?p=multihack1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "the-front",
+      "zadeyoSlug": "the-front-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/84/mg/fyf3pmkgcs440ck4skoc4.webp?p=thefronts1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "unturned",
+      "zadeyoSlug": "unturned-novaxware",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/5y/cc/q438phoocw44wckcggk0o.webp?p=ancient_unturned_s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "valorant",
+      "zadeyoSlug": "valorant",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/e2/wc/bjtt1i8k8gw88k4so0kwc.webp?p=whsatano-valorant-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "world-war-3",
+      "zadeyoSlug": "world-war-3",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/46/az/7wx4i6g4k0g040gwgw40o.webp?p=fww3s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "wunthering",
+      "zadeyoSlug": "wuthering-waves",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/f4/er/ob69iigwgc0kg0wgok0k0.webp?p=unicore-wuthering-s1.webp&s=s3"
+    },
+    {
+      "catalogSlug": "zenless-zone-zero",
+      "zadeyoSlug": "zenless-zone-zero",
+      "url": "https://wh-satano.ru/storage/thumbnails/default/4o/ez/izf71ywwwow8cw0gswkwc.webp?p=zzz-s1.webp&s=s3"
+    }
+  ],
+  "stockGallery": [
+    {
+      "catalogSlug": "7-days-to-die",
+      "zadeyoSlug": "7-days-to-die",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qdkkwdm32tomngxmm2ci.jpg"
+    },
+    {
+      "catalogSlug": "age-of-empires-4",
+      "zadeyoSlug": "age-of-empires-4",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc98hn.jpg"
+    },
+    {
+      "catalogSlug": "age-of-mythology-retold",
+      "zadeyoSlug": "age-of-mythology-retold",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scqt65.jpg"
+    },
+    {
+      "catalogSlug": "albion-online",
+      "zadeyoSlug": "albion-online",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gh4jktnzsofbegfagyjv.jpg"
+    },
+    {
+      "catalogSlug": "armored-core-6",
+      "zadeyoSlug": "armored-core-6",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scka8s.jpg"
+    },
+    {
+      "catalogSlug": "backrooms-escape-together",
+      "zadeyoSlug": "backrooms-escape-together",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scj7oy.jpg"
+    },
+    {
+      "catalogSlug": "battlebit-remastered",
+      "zadeyoSlug": "battlebit-remastered",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scmwz0.jpg"
+    },
+    {
+      "catalogSlug": "battlefield-6",
+      "zadeyoSlug": "BF6",
+      "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/2807960/library_hero.jpg"
+    },
+    {
+      "catalogSlug": "bellwright",
+      "zadeyoSlug": "bellwright",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sclxuh.jpg"
+    },
+    {
+      "catalogSlug": "bitcraft-online",
+      "zadeyoSlug": "bitcraft-online",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scrhp9.jpg"
+    },
+    {
+      "catalogSlug": "black-desert-mobile",
+      "zadeyoSlug": "black-desert-online",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc8rwv.jpg"
+    },
+    {
+      "catalogSlug": "bloodline-champions",
+      "zadeyoSlug": "bloodline-champions",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ed1nzwj9s9gq9glfypdn.jpg"
+    },
+    {
+      "catalogSlug": "bodycam",
+      "zadeyoSlug": "bodycam",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scq4hg.jpg"
+    },
+    {
+      "catalogSlug": "chivalry-2",
+      "zadeyoSlug": "chivalry-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6lfq.jpg"
+    },
+    {
+      "catalogSlug": "chrono-odyssey",
+      "zadeyoSlug": "chrono-odyssey",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc8uq8.jpg"
+    },
+    {
+      "catalogSlug": "civilization-7",
+      "zadeyoSlug": "civilization-7",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scza8f.jpg"
+    },
+    {
+      "catalogSlug": "combat-master",
+      "zadeyoSlug": "combat-master",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scw3u6.jpg"
+    },
+    {
+      "catalogSlug": "company-of-heroes-3",
+      "zadeyoSlug": "company-of-heroes-3",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sccrpl.jpg"
+    },
+    {
+      "catalogSlug": "conan",
+      "zadeyoSlug": "conan-exiles",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/yv2cm2jpxidt7wygx0an.jpg"
+    },
+    {
+      "catalogSlug": "content-warning",
+      "zadeyoSlug": "content-warning",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scrmbp.jpg"
+    },
+    {
+      "catalogSlug": "dark-and-darker",
+      "zadeyoSlug": "dark-and-darker",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schns7.jpg"
+    },
+    {
+      "catalogSlug": "dauntless",
+      "zadeyoSlug": "dauntless",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/beypzpjhptnkdg5laaqk.jpg"
+    },
+    {
+      "catalogSlug": "deadside",
+      "zadeyoSlug": "deadside",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/hvsms1h2lizojhs1vqnh.jpg"
+    },
+    {
+      "catalogSlug": "demonologist",
+      "zadeyoSlug": "demonologist",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scu8tm.jpg"
+    },
+    {
+      "catalogSlug": "destiny-2",
+      "zadeyoSlug": "destiny-2",
+      "url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg"
+    },
+    {
+      "catalogSlug": "devour",
+      "zadeyoSlug": "devour",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc8rq9.jpg"
+    },
+    {
+      "catalogSlug": "elder-scrolls-online",
+      "zadeyoSlug": "elder-scrolls-online",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/kit1ckxyfakykrsv5opd.jpg"
+    },
+    {
+      "catalogSlug": "enlisted",
+      "zadeyoSlug": "enlisted",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vhkxsic40inhce1oiqbn.jpg"
+    },
+    {
+      "catalogSlug": "enshrouded",
+      "zadeyoSlug": "enshrouded",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scmeb5.jpg"
+    },
+    {
+      "catalogSlug": "escape-from-tarkov-arena",
+      "zadeyoSlug": "escape-from-tarkov-arena",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bcwpeg5u2g1ubmivugi7.jpg"
+    },
+    {
+      "catalogSlug": "escape-the-backrooms",
+      "zadeyoSlug": "escape-the-backrooms",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scwpwm.jpg"
+    },
+    {
+      "catalogSlug": "eternal-return",
+      "zadeyoSlug": "eternal-return",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/r0ck6iich8mlvt2jfvna.jpg"
+    },
+    {
+      "catalogSlug": "exoborne",
+      "zadeyoSlug": "exoborne",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scpuy6.jpg"
+    },
+    {
+      "catalogSlug": "farlight-84",
+      "zadeyoSlug": "farlight-84",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sctze1.jpg"
+    },
+    {
+      "catalogSlug": "final-fantasy-xiv",
+      "zadeyoSlug": "final-fantasy-xiv",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6dvb.jpg"
+    },
+    {
+      "catalogSlug": "forewarned",
+      "zadeyoSlug": "forewarned",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scbg6c.jpg"
+    },
+    {
+      "catalogSlug": "ghost-exile",
+      "zadeyoSlug": "ghost-exile",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scp0ki.jpg"
+    },
+    {
+      "catalogSlug": "gigantic-rampage-edition",
+      "zadeyoSlug": "gigantic-rampage-edition",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scqqd5.jpg"
+    },
+    {
+      "catalogSlug": "gray-zone-warfare",
+      "zadeyoSlug": "gray-zone-warfare",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scwwq7.jpg"
+    },
+    {
+      "catalogSlug": "grounded",
+      "zadeyoSlug": "grounded",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc79et.jpg"
+    },
+    {
+      "catalogSlug": "gtfo",
+      "zadeyoSlug": "gtfo",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scue74.jpg"
+    },
+    {
+      "catalogSlug": "guild-wars-2",
+      "zadeyoSlug": "guild-wars-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/y89te8oduvhyznbyryec.jpg"
+    },
+    {
+      "catalogSlug": "halo",
+      "zadeyoSlug": "halo-infinite",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/tlwczv6q5r6o4uuryxgt.jpg"
+    },
+    {
+      "catalogSlug": "hell-let-loose",
+      "zadeyoSlug": "hell-let-loose",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvhcd.jpg"
+    },
+    {
+      "catalogSlug": "heroes-of-the-storm",
+      "zadeyoSlug": "heroes-of-the-storm",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/fkxgn7oneid9vqbyar1c.jpg"
+    },
+    {
+      "catalogSlug": "humanitz",
+      "zadeyoSlug": "humanitz",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schd1r.jpg"
+    },
+    {
+      "catalogSlug": "icarus",
+      "zadeyoSlug": "icarus",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scnt6c.jpg"
+    },
+    {
+      "catalogSlug": "inside-the-backrooms",
+      "zadeyoSlug": "inside-the-backrooms",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sch1b6.jpg"
+    },
+    {
+      "catalogSlug": "ironsight",
+      "zadeyoSlug": "ironsight",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/lsh4eu6fmv7ir3y93gud.jpg"
+    },
+    {
+      "catalogSlug": "killer-klowns-from-outer-space",
+      "zadeyoSlug": "killer-klowns-from-outer-space",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sciia4.jpg"
+    },
+    {
+      "catalogSlug": "labyrinthine",
+      "zadeyoSlug": "labyrinthine",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scxttj.jpg"
+    },
+    {
+      "catalogSlug": "last-epoch",
+      "zadeyoSlug": "last-epoch",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scqiq4.jpg"
+    },
+    {
+      "catalogSlug": "lethal-company",
+      "zadeyoSlug": "lethal-company",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scrf63.jpg"
+    },
+    {
+      "catalogSlug": "life-is-feudal-mmo",
+      "zadeyoSlug": "life-is-feudal-mmo",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scmr8c.jpg"
+    },
+    {
+      "catalogSlug": "lost-ark",
+      "zadeyoSlug": "lost-ark",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6vtg.jpg"
+    },
+    {
+      "catalogSlug": "manor-lords",
+      "zadeyoSlug": "manor-lords",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scbh5t.jpg"
+    },
+    {
+      "catalogSlug": "mecha-break",
+      "zadeyoSlug": "mecha-break",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scpueo.jpg"
+    },
+    {
+      "catalogSlug": "moe",
+      "zadeyoSlug": "myth-of-empires",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc928y.jpg"
+    },
+    {
+      "catalogSlug": "monster-hunter-rise",
+      "zadeyoSlug": "monster-hunter-rise",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc8ky2.jpg"
+    },
+    {
+      "catalogSlug": "monster-hunter-wilds",
+      "zadeyoSlug": "monster-hunter-wilds",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scqcrc.jpg"
+    },
+    {
+      "catalogSlug": "monster-hunter-world",
+      "zadeyoSlug": "monster-hunter-world",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ghcjheumz1norh0rwaxk.jpg"
+    },
+    {
+      "catalogSlug": "mordhau",
+      "zadeyoSlug": "mordhau",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc62dv.jpg"
+    },
+    {
+      "catalogSlug": "mortal-kombat-1",
+      "zadeyoSlug": "mortal-kombat-1",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scmlie.jpg"
+    },
+    {
+      "catalogSlug": "mortal-online-2",
+      "zadeyoSlug": "mortal-online-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc7xck.jpg"
+    },
+    {
+      "catalogSlug": "murky-divers",
+      "zadeyoSlug": "murky-divers",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scsg4e.jpg"
+    },
+    {
+      "catalogSlug": "nba-2k26",
+      "zadeyoSlug": "nba-2k26",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scsziw.jpg"
+    },
+    {
+      "catalogSlug": "new-world",
+      "zadeyoSlug": "new-world",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc65mq.jpg"
+    },
+    {
+      "catalogSlug": "nhl-26",
+      "zadeyoSlug": "nhl-26",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sctp4c.jpg"
+    },
+    {
+      "catalogSlug": "no-more-room-in-hell-2",
+      "zadeyoSlug": "no-more-room-in-hell-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sca04j.jpg"
+    },
+    {
+      "catalogSlug": "northgard",
+      "zadeyoSlug": "northgard",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/lq4hb0evfpojtw7rqt9h.jpg"
+    },
+    {
+      "catalogSlug": "once-human",
+      "zadeyoSlug": "once-human",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schd6j.jpg"
+    },
+    {
+      "catalogSlug": "operation-harsh-doorstop",
+      "zadeyoSlug": "operation-harsh-doorstop",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc9vqa.jpg"
+    },
+    {
+      "catalogSlug": "pacify",
+      "zadeyoSlug": "pacify",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc61ml.jpg"
+    },
+    {
+      "catalogSlug": "palia",
+      "zadeyoSlug": "palia",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scaeyj.jpg"
+    },
+    {
+      "catalogSlug": "palworld",
+      "zadeyoSlug": "palworld",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/ss_f81b7c4f20be3b99f76a1415c4cdb9b444c99b97.1920x1080.jpg"
+    },
+    {
+      "catalogSlug": "phasmophobia",
+      "zadeyoSlug": "phasmophobia",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scuwfj.jpg"
+    },
+    {
+      "catalogSlug": "planetside-2",
+      "zadeyoSlug": "planetside-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scs47o.jpg"
+    },
+    {
+      "catalogSlug": "predecessor",
+      "zadeyoSlug": "predecessor",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scnq01.jpg"
+    },
+    {
+      "catalogSlug": "project-zomboid",
+      "zadeyoSlug": "project-zomboid",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ihmtywjhagxtdzzf1wrw.jpg"
+    },
+    {
+      "catalogSlug": "raft",
+      "zadeyoSlug": "raft",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uccxylrucanofpwyhg9j.jpg"
+    },
+    {
+      "catalogSlug": "ready-or-not",
+      "zadeyoSlug": "ready-or-not",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sgl83mr98y0dvyxzivsg.jpg"
+    },
+    {
+      "catalogSlug": "sea-of-thieves",
+      "zadeyoSlug": "sea-of-thieves",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc87lo.jpg"
+    },
+    {
+      "catalogSlug": "shatterline",
+      "zadeyoSlug": "shatterline",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sciae6.jpg"
+    },
+    {
+      "catalogSlug": "smite-2",
+      "zadeyoSlug": "smite-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scq45g.jpg"
+    },
+    {
+      "catalogSlug": "sons-of-the-forest",
+      "zadeyoSlug": "sons-of-the-forest",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sch0do.jpg"
+    },
+    {
+      "catalogSlug": "soulmask",
+      "zadeyoSlug": "soulmask",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc1069s.jpg"
+    },
+    {
+      "catalogSlug": "splitgate-2",
+      "zadeyoSlug": "splitgate-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sct2rg.jpg"
+    },
+    {
+      "catalogSlug": "state-of-decay-2",
+      "zadeyoSlug": "state-of-decay-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gfinlogdwozssszwplpk.jpg"
+    },
+    {
+      "catalogSlug": "stormgate",
+      "zadeyoSlug": "stormgate",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sctfhd.jpg"
+    },
+    {
+      "catalogSlug": "street-fighter-6",
+      "zadeyoSlug": "street-fighter-6",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sch7rx.jpg"
+    },
+    {
+      "catalogSlug": "supervive",
+      "zadeyoSlug": "supervive",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scsvlg.jpg"
+    },
+    {
+      "catalogSlug": "swbf",
+      "zadeyoSlug": "star-wars-battlefront-2",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/kovc0afidbupvb0k7d0g.jpg"
+    },
+    {
+      "catalogSlug": "team-fortress-2",
+      "zadeyoSlug": "team-fortress-2",
+      "url": "https://sm.ign.com/t/ign_cz/screenshot/a/alternate-/alternate-soldier-class-designs_3hju.1400.jpg"
+    },
+    {
+      "catalogSlug": "tekken-8",
+      "zadeyoSlug": "tekken-8",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scrysz.jpg"
+    },
+    {
+      "catalogSlug": "temtem",
+      "zadeyoSlug": "temtem",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/dzucduxs0z1wsgttrpci.jpg"
+    },
+    {
+      "catalogSlug": "texas-chain-saw-massacre",
+      "zadeyoSlug": "texas-chain-saw-massacre",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc103s4.jpg"
+    },
+    {
+      "catalogSlug": "the-first-descendant",
+      "zadeyoSlug": "the-first-descendant",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schtv8.jpg"
+    },
+    {
+      "catalogSlug": "the-outlast-trials",
+      "zadeyoSlug": "the-outlast-trials",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc8yyo.jpg"
+    },
+    {
+      "catalogSlug": "throne-and-liberty",
+      "zadeyoSlug": "throne-and-liberty",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scnngx.jpg"
+    },
+    {
+      "catalogSlug": "v-rising",
+      "zadeyoSlug": "v-rising",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc9o94.jpg"
+    },
+    {
+      "catalogSlug": "valheim",
+      "zadeyoSlug": "valheim",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc5ifv.jpg"
+    },
+    {
+      "catalogSlug": "vindictus-defying-fate",
+      "zadeyoSlug": "vindictus-defying-fate",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scwbny.jpg"
+    },
+    {
+      "catalogSlug": "vintage-story",
+      "zadeyoSlug": "vintage-story",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc7hhg.jpg"
+    },
+    {
+      "catalogSlug": "war-selection",
+      "zadeyoSlug": "war-selection",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc6hp6.jpg"
+    },
+    {
+      "catalogSlug": "warframe",
+      "zadeyoSlug": "warframe",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/tmylb5knvikgpetzh9s1.jpg"
+    },
+    {
+      "catalogSlug": "world-of-warcraft",
+      "zadeyoSlug": "world-of-warcraft",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qhiqlmwvvuaqxxn4cxlr.jpg"
+    },
+    {
+      "catalogSlug": "xdefiant",
+      "zadeyoSlug": "xdefiant",
+      "url": "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scc12t.jpg"
+    }
+  ],
+  "noGallery": [
+    {
+      "catalogSlug": "cloud-dma",
+      "zadeyoSlug": "cloud-dma",
+      "name": "CLOUD DMA"
+    },
+    {
+      "catalogSlug": "ea-sports-fc",
+      "zadeyoSlug": "ea-sports-fc-2026",
+      "name": "EA Sports FC 26"
+    },
+    {
+      "catalogSlug": "hunger",
+      "zadeyoSlug": "hunger",
+      "name": "HUNGER "
+    },
+    {
+      "catalogSlug": "hunt-showdown",
+      "zadeyoSlug": "hunt-showdown",
+      "name": "Hunt: Showdown"
+    },
+    {
+      "catalogSlug": "pragmata",
+      "zadeyoSlug": "pragmata",
+      "name": "Pragmata"
+    },
+    {
+      "catalogSlug": "redm",
+      "zadeyoSlug": "redm-rp",
+      "name": "RedM RP"
+    },
+    {
+      "catalogSlug": "sand",
+      "zadeyoSlug": "sand-raiders-of-sophie",
+      "name": "SAND: Raiders of Sophie"
+    },
+    {
+      "catalogSlug": "skin-changer",
+      "zadeyoSlug": "skin-changer",
+      "name": "Skin Changer"
+    },
+    {
+      "catalogSlug": "star-wars-zero-company",
+      "zadeyoSlug": "star-wars-zero-company-cheats",
+      "name": "STAR WARS Zero Company™"
+    },
+    {
+      "catalogSlug": "the-finals",
+      "zadeyoSlug": "thefinals",
+      "name": "THEFINALS"
+    },
+    {
+      "catalogSlug": "torchlight-infinite",
+      "zadeyoSlug": "torchlight-infinite",
+      "name": "Torchlight Infinite"
+    },
+    {
+      "catalogSlug": "ugc",
+      "zadeyoSlug": "ugc",
+      "name": "UGC"
+    }
+  ],
+  "zadeyoUnmapped": [
+    {
+      "zadeyoSlug": "warzone",
+      "name": "WARZONE",
+      "hasGallery": true
+    },
+    {
+      "zadeyoSlug": "cs2",
+      "name": "COUNTER-STRIKE 2",
+      "hasGallery": true
+    },
+    {
+      "zadeyoSlug": "gta5",
+      "name": "GTA 5 ONLINE",
+      "hasGallery": true
+    },
+    {
+      "zadeyoSlug": "war-thunder",
+      "name": "War Thunder",
+      "hasGallery": true
+    },
+    {
+      "zadeyoSlug": "apex-legends",
+      "name": "APEX LEGENDS",
+      "hasGallery": true
+    },
+    {
+      "zadeyoSlug": "aws",
+      "name": "AWS",
+      "hasGallery": false
+    },
+    {
+      "zadeyoSlug": "fivem",
+      "name": "Fivem",
+      "hasGallery": false
+    },
+    {
+      "zadeyoSlug": "meccha-chameleon-cheats",
+      "name": "MECCHA CHAMELEON",
+      "hasGallery": true
+    }
+  ],
+  "ourCatalogNoInterior": [
+    {
+      "catalogSlug": "koboom"
+    },
+    {
+      "catalogSlug": "call-of-duty-black-ops-7"
+    },
+    {
+      "catalogSlug": "roblox"
+    },
+    {
+      "catalogSlug": "duet-night-abyss"
+    },
+    {
+      "catalogSlug": "pioneers-of-pagonia"
+    },
+    {
+      "catalogSlug": "brawlhalla"
+    },
+    {
+      "catalogSlug": "hytale"
+    },
+    {
+      "catalogSlug": "megabonk"
+    },
+    {
+      "catalogSlug": "the-division-2"
+    },
+    {
+      "catalogSlug": "russian-fishing-4"
+    },
+    {
+      "catalogSlug": "the-seven-deadly-sins"
+    },
+    {
+      "catalogSlug": "neverness-to-everness"
+    },
+    {
+      "catalogSlug": "mongil-star-dive"
+    },
+    {
+      "catalogSlug": "windrose"
+    },
+    {
+      "catalogSlug": "vostok"
+    },
+    {
+      "catalogSlug": "sand"
+    },
+    {
+      "catalogSlug": "cod-bocw"
+    },
+    {
+      "catalogSlug": "rocket"
+    },
+    {
+      "catalogSlug": "realm"
+    },
+    {
+      "catalogSlug": "titanfall2"
+    },
+    {
+      "catalogSlug": "wows"
+    },
+    {
+      "catalogSlug": "hd2"
+    },
+    {
+      "catalogSlug": "starship"
+    },
+    {
+      "catalogSlug": "six-day-ful"
+    },
+    {
+      "catalogSlug": "tptr"
+    },
+    {
+      "catalogSlug": "atlas"
+    },
+    {
+      "catalogSlug": "wot-blitz"
+    },
+    {
+      "catalogSlug": "gray-zone"
+    },
+    {
+      "catalogSlug": "chess"
+    },
+    {
+      "catalogSlug": "l33t-ragemp"
+    },
+    {
+      "catalogSlug": "deadlock"
+    },
+    {
+      "catalogSlug": "sa-mp"
+    },
+    {
+      "catalogSlug": "duckside"
+    },
+    {
+      "catalogSlug": "snowbreak-containment-zone"
+    },
+    {
+      "catalogSlug": "level-zero"
+    },
+    {
+      "catalogSlug": "off-the-grid"
+    },
+    {
+      "catalogSlug": "diablo-iv"
+    },
+    {
+      "catalogSlug": "tarisland"
+    },
+    {
+      "catalogSlug": "ea-sports-fc"
+    },
+    {
+      "catalogSlug": "honor-of-kings"
+    },
+    {
+      "catalogSlug": "maplestory-m"
+    },
+    {
+      "catalogSlug": "left-4-dead-2"
+    },
+    {
+      "catalogSlug": "cs-1-6"
+    },
+    {
+      "catalogSlug": "point-blank"
+    },
+    {
+      "catalogSlug": "8-ball-pool"
+    },
+    {
+      "catalogSlug": "free-fire"
+    },
+    {
+      "catalogSlug": "steel-hunters"
+    },
+    {
+      "catalogSlug": "rematch"
+    },
+    {
+      "catalogSlug": "cloud-dma"
+    },
+    {
+      "catalogSlug": "hunger"
+    },
+    {
+      "catalogSlug": "hunt-showdown"
+    },
+    {
+      "catalogSlug": "pragmata"
+    },
+    {
+      "catalogSlug": "redm"
+    },
+    {
+      "catalogSlug": "skin-changer"
+    },
+    {
+      "catalogSlug": "star-wars-zero-company"
+    },
+    {
+      "catalogSlug": "the-finals"
+    },
+    {
+      "catalogSlug": "torchlight-infinite"
+    },
+    {
+      "catalogSlug": "ugc"
+    }
+  ],
+  "summary": {
+    "mappedTotal": 149,
+    "cheatShot": 42,
+    "stockGallery": 107,
+    "noGallery": 12,
+    "ourCatalogNoInterior": 58,
+    "zadeyoUnmapped": 8
+  }
+}
